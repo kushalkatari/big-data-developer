@@ -11,3 +11,7 @@ stream
 
 ## Plans
 - I would like to pursue my carrer as full stack developer in reputed company.
+ 
+## Links
+- [Github](https://github.com/kushalkatari)
+- [LinkedIn](https://www.linkedin.com/in/kushal-katari-b4276a149/)
