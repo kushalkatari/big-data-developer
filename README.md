@@ -15,3 +15,5 @@ stream
 ## Links
 - [Github](https://github.com/kushalkatari)
 - [LinkedIn](https://www.linkedin.com/in/kushal-katari-b4276a149/)
+## My Picture
+- ![image](https://media-exp1.licdn.com/dms/image/C5603AQFd-5Hm0dGpuA/profile-displayphoto-shrink_800_800/0/1642624913562?e=1648080000&v=beta&t=z0hgRVIVt3Lo_j7Fp_H71NpuIwpOFQtHcZhT-aLFKzo)
